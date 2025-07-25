@@ -151,6 +151,7 @@ a{
     width: auto;
     padding: 48px 112px;
     justify-content: space-between;
+    gap: 16px;
 }
 
 .content{
